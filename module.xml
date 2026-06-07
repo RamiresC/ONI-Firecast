@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module sdkVersion="3.7b">
+    
+    <id>br.com.koshiverso.oni</id>
+    
+    <version>1.0</version>
+
+    <info lang="pt-BR">
+        <name>ONI</name>
+        <description>Ficha ONI</description>
+        <author>RamiresC</author>
+        <site>http://www.seu.site.com.br</site>
+        <contact>Facebook? Twitter? E-Mail?</contact>
+    </info>
+
+</module>
